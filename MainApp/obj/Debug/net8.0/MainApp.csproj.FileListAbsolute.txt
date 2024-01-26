@@ -1,0 +1,5 @@
+C:\Users\amdhp\Desktop\С42\Week 2\day 4\Home work\MainApp\obj\Debug\net8.0\MainApp.csproj.AssemblyReference.cache
+C:\Users\amdhp\Desktop\С42\Week 2\day 4\Home work\MainApp\obj\Debug\net8.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amdhp\Desktop\С42\Week 2\day 4\Home work\MainApp\obj\Debug\net8.0\MainApp.AssemblyInfoInputs.cache
+C:\Users\amdhp\Desktop\С42\Week 2\day 4\Home work\MainApp\obj\Debug\net8.0\MainApp.AssemblyInfo.cs
+C:\Users\amdhp\Desktop\С42\Week 2\day 4\Home work\MainApp\obj\Debug\net8.0\MainApp.csproj.CoreCompileInputs.cache
